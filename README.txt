@@ -1,6 +1,7 @@
 Thank you for trying out my Watch Face Design.
 Just upload the .wfs file to Watch Face Studio and try to Face out for yourself. 
 Please understand that its my first Face and there might be errors with watches other than the Galaxy Watch 7 44mm.
+I have not edited the Always On Display, as i personally do not use it.
 Feel free to customize the Face to your own preferences.
 
 Just in case:
