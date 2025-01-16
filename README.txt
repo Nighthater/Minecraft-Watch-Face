@@ -4,8 +4,11 @@ Please understand that its my first Face and there might be errors with watches 
 I have not edited the Always On Display, as i personally do not use it.
 Feel free to customize the Face to your own preferences.
 
+<img src="Screenshot.png" width="500">
+
 Just in case:
 This watch face is provided for personal use only. 
 I do not claim ownership or any intellectual property rights over the design or its elements. 
 All respective rights remain with their original creators. 
 In this case, primarily Mojang Studios.
+
