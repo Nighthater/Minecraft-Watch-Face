@@ -1,16 +1,20 @@
 # Minecraft Watch Face
 
-Thank you for trying out my Watch Face Design.
-Just upload the .wfs file to [Watch Face Studio](https://developer.samsung.com/watch-face-studio/download.html) and try the Watchface out for yourself. 
-Please understand that its my first Face and there might be errors with watches other than the Galaxy Watch 7 44mm.
+### Features
+- Functional Clock Background
+- Brewing Stand Battery Meter
+- Animated Heart Rate symbol
+- AOD Display
+
+### Installation
+Open the .wfs file to [Watch Face Studio](https://developer.samsung.com/watch-face-studio/download.html) and try the Watchface out for yourself.   
+You should enable 'Wireless Debugging' inside your Watch first and pair your watch with Watch Face Studio.
 
 Feel free to customize the Face to your own preferences.
 
 <img src="Screenshot.png" width="500">
 
-#### Just in case
-This watch face is provided for personal use only. 
+### Disclaimer
+This watch face is provided for personal use only and is not intended for commercial purposes. 
 I do not claim ownership or any intellectual property rights over the design or its elements. 
-All respective rights remain with their original creators. 
-In this case, primarily Mojang Studios.
-
+All rights remain with their respective owners, including, but not limited to, Mojang Studios.
