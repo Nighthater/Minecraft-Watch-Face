@@ -12,8 +12,8 @@ You should enable 'Wireless Debugging' inside your Watch first and pair your wat
 
 Feel free to customize the Face to your own preferences.
 
- ### Normal Face     
-<img src="Screenshot.png" width="250">
+ ### Advanced Face     
+<img src="Screenshot Advanced.png" width="250">
 
 ### Standard Face
 <img src="Screenshot Standard.png" width="250">
