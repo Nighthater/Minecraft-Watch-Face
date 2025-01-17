@@ -12,11 +12,14 @@ You should enable 'Wireless Debugging' inside your Watch first and pair your wat
 
 Feel free to customize the Face to your own preferences.
 
-### Normal Face
-<img src="Screenshot.png" width="500">
+ ### Normal Face     
+<img src="Screenshot.png" width="250">
+
+### Standard Face
+<img src="Screenshot Standard.png" width="250">
 
 ### Minimalist Face
-<img src="Screenshot Minimalist.png" width="500">
+<img src="Screenshot Minimalist.png" width="250">
 
 ### Disclaimer
 This watch face is provided for personal use only and is not intended for commercial purposes. 
