@@ -33,6 +33,9 @@ If the Watchface does not work on your device, or is rendered wrong, please open
 You are welcome to contribute to this project. Please make sure that your changes improve the functionality, and do not take away features.
 Please state all changes you've made to the watchface in the pull request.
 
+All Images used in the watchface are separately stored inside the resources folder as .png files.
+The .pdn filetype can be opened in the [paint.NET](https://www.getpaint.net/) software.
+
 ### Disclaimer
 This watch face is provided for personal use only and is not intended for commercial purposes. 
 I do not claim ownership or any intellectual property rights over the design or its elements. 
