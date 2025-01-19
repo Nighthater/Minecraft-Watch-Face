@@ -20,14 +20,17 @@ If the Watchface does not work on your device, or is rendered wrong, please open
 
 ### Screenshots
 
-#### Standard Clock
-<img src="screenshots/scrStandard.png" width="250">
+#### Watchfaces
 
-#### Advanced Clock     
-<img src="screenshots/scrAdvanced_1.png" width="250">
+Standard                          |  Faithful                          |  Advanced
+:--------------------------------:|:----------------------------------:|:-----------------------------------:
+![](screenshots/scrStandard.png)  |  ![](screenshots/scrFaithful.png)  |  ![](screenshots/scrAdvanced_1.png)
 
-#### Faithful Clock
-<img src="screenshots/scrFaithful.png" width="250">
+#### Colors
+
+White                               |  Golden                                |  Ocean
+:----------------------------------:|:--------------------------------------:|:-------------------------------------:
+![](screenshots/scrAdvanced_1.png)  |  ![](screenshots/scrAdvanced_GOL.png)  |  ![](screenshots/scrAdvanced_BLU.png)
 
 ### Contributing
 You are welcome to contribute to this project. Please make sure that your changes improve the functionality, and do not take away features.
