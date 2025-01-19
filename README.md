@@ -21,13 +21,13 @@ If the Watchface does not work on your device, or is rendered wrong, please open
 ### Screenshots
 
 #### Standard Clock
-<img src="Screenshot Standard.png" width="250">
+<img src="screenshots/scrStandard.png" width="250">
 
 #### Advanced Clock     
-<img src="Screenshot Advanced.png" width="250">
+<img src="screenshots/scrAdvanced_1.png" width="250">
 
 #### Faithful Clock
-<img src="Screenshot Minimalist.png" width="250">
+<img src="screenshots/scrFaithful.png" width="250">
 
 ### Contributing
 You are welcome to contribute to this project. Please make sure that your changes improve the functionality, and do not take away features.
